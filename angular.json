@@ -94,19 +94,14 @@
             ],
             
             "styles": [
-            // bien
               "../node_modules/bootswatch/dist/simplex/bootstrap.css",
-            // bien
               "../node_modules/font-awesome/css/font-awesome.css",
               "src/styles.scss"
             ],
             "scripts": [
-              // bien
               "../node_modules/jquery/dist/jquery.js",
-              // bien
               "../node_modules/popper.js/dist/umd/popper.js",
-              // bien
-              "../node_modules/bootstap/dist/js/bootstrap.js",
+              "../node_modules/bootstap/dist/js/bootstrap.js"
               
             ]
           }
